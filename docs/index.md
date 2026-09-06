@@ -1294,25 +1294,31 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     </center>   
 
     - **Personaliser** [votre classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil== ;
-
+-->
 
 ***
-## Du 08/09
+## Du 07/09
 
 === "CONTENU DE SÉANCE"
         
     - Retour sur le T.A.F. ;
-    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target=_blank} -> ==**Rédiger** progressivement un [notebook jupyter visible sur Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub==.
+    
+    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target=_blank}
+    > ==**Rédiger** progressivement un [notebook jupyter visible sur Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub==.
 
 === "TRAVAIL À FAIRE"
 
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
-    - **Visionner**  "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les mots et dates clefs== :  
-    <figure>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </figure> 
+    - **Faire** le travail demandé sur le notebook [Capytale n°`efb8-11440092`](https://capytale2.ac-paris.fr/web/c/efb8-11440092){target=_blank} ;
+    
+    > #### IA Génératives basées sur des "Larges Languages Models" (LLM) - Préambule :
+    >
+    > <center><iframe width="560" height="315" src="https://www.youtube.com/embed/4xq6bVbS-Pw?si=PotdtsFJbYPKbQ5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
--->
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
+    
+
+
+
 ***
 ## Les 03 et 04/09
 
