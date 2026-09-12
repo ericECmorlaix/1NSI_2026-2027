@@ -24,10 +24,10 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
-    - **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Statique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
 
 === "TRAVAIL À FAIRE"
     
@@ -40,15 +40,15 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
     
-    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
     - **Finir** les activités du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
     
     
 === "TRAVAIL À FAIRE"
     
-    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;    
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;    
     - **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} ;
     - **Poursuivre** l'entrainement pour la [Nuit du cOde 2023](./Nuit_du_cOde)
 
@@ -60,13 +60,13 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - Evaluation par QCM portant essentiellement sur les commandes Linux, les tableaux par compréhension, un peu de logique booléenne, de l’algorithmique et de la programmation en Python d’une manière générale ;
     - Révisions de SNT : [Les données structurées et leur traitement](https://parcours.algorea.org/contents/4707-4701-1067253748629066205-653650670442840123/){target=_blank} ;
     - **Faire** les activités du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
-    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
     
 === "TRAVAIL À FAIRE"
     
-    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;    
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;    
     - **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} ;
     - **Poursuivre** l'entrainement pour la [Nuit du cOde 2023](./Nuit_du_cOde)
  
@@ -75,11 +75,11 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Synthèse des notebook [Exercices_listes_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Exercices_listes_tableaux.ipynb){target=_blank} ;
-    et [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){target=_blank} ;
+    - Synthèse des notebook [Exercices_listes_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Exercices_listes_tableaux.ipynb){target=_blank} ;
+    et [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/OS.ipynb){target=_blank} ;
 
-    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
 === "TRAVAIL À FAIRE"
 
@@ -92,17 +92,17 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Faire** les exercices du notebook [Exercices_listes_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Exercices_listes_tableaux.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Exercices_listes_tableaux.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **Faire** les exercices du notebook [Exercices_listes_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Exercices_listes_tableaux.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Exercices_listes_tableaux.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
-    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
-     - **Répondre** au questionnement du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+     - **Répondre** au questionnement du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/OS.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/OS.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
-    - **Faire** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **Faire** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
 
 === "TRAVAIL À FAIRE"
@@ -119,8 +119,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Evaluation par QCM sur les tableaux
 
-    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
     - Entrainement pour la [Nuit du cOde 2023](./Nuit_du_cOde)
 
@@ -134,16 +134,16 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Les_tableaux.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Les_tableaux.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
-    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
 === "TRAVAIL À FAIRE"
     
-    - **transmettre** le notebook [BBCmicrobit-Un_BN_Pour_MicroPython](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **transmettre** le notebook [BBCmicrobit-Un_BN_Pour_MicroPython](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
     - **découvrir** la dernière mise à jour avec les [Canvas dans Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
 
@@ -152,21 +152,21 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **faire** les activités du notebook [BBCmicrobit-Un_BN_Pour_MicroPython](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **faire** les activités du notebook [BBCmicrobit-Un_BN_Pour_MicroPython](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
 === "TRAVAIL À FAIRE"
     
-    - **transmettre** le notebook [Logique Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Logique_Booleenne.ipynb){target=_blank} avec les réponses aux exercices du T.A.F. précédent ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Logique_Booleenne.ipynb){ .md-button .md-button--primary} ;
+    - **transmettre** le notebook [Logique Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Logique_Booleenne.ipynb){target=_blank} avec les réponses aux exercices du T.A.F. précédent ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Logique_Booleenne.ipynb){ .md-button .md-button--primary} ;
 
 
 
 
 
 
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
 ***
 
@@ -187,8 +187,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Correction des évaluations du trimestre ;
 
-    - **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
 
 === "TRAVAIL À FAIRE"
     
@@ -304,9 +304,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     
     - Bilan de la [Nuit du cOde](./Nuit_du_cOde) ;
     
-    - Synthèses des activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
+    - Synthèses des activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
 
-    - Synthèses des activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
+    - Synthèses des activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
 
      - ==**Se préparer** pour une évaluation pratique d'algorithmique en révisant le [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en [s'exerçant](https://e-nsi.forge.aeif.fr/pratique/){target=_blank}== 
 
@@ -320,9 +320,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
     
-    - **Faire** les activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
 
-    - **Faire** les activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
 
     - **Poursuivre** l'entrainement pour la [Nuit du cOde](./Nuit_du_cOde) :
         - programmer un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
@@ -334,15 +334,15 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     
     
 
-    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
 
     - **Finir** les exercices du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} et **conserver** une trace au format notebook dans votre classeur numérique ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Rendre** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **Rendre** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
     
     - **Se préparer** pour une évaluation par QCM sur les dictionnaires pour le 06/05 ;
     
@@ -352,11 +352,11 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
     
-    - **Rendre** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **Rendre** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
 
-    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
 
 
 
@@ -374,8 +374,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Evaluation par QCM portant essentiellement sur les commandes Linux, les tableaux par compréhension, un peu de logique booléenne, de l’algorithmique et de la programmation en Python d’une manière générale ;
     
-    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
 
     - **Poursuivre** les activités du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} et **conserver** une trace au format notebook dans votre classeur numérique ;
 
@@ -386,8 +386,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 
 
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
 
 
 
@@ -404,11 +404,11 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Correction des [exercices pratiques sur des tableaux](https://capytale2.ac-paris.fr/web/c/3fba-2944900){target=_blank} ;
 
-    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){target=_blank} | [Capytale n° 6eab-3002691](https://capytale2.ac-paris.fr/web/c/6eab-3002691){target=_blank} |
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} ;
+    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){target=_blank} | [Capytale n° 6eab-3002691](https://capytale2.ac-paris.fr/web/c/6eab-3002691){target=_blank} |
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){ .md-button .md-button--primary} ;
 
-    <!-- - **Proposer** vos solutions pour les fonctionnalités du notebook [Extras_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Extras_matrices.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Extras_matrices.ipynb){ .md-button .md-button--primary} ;
+    <!-- - **Proposer** vos solutions pour les fonctionnalités du notebook [Extras_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Extras_matrices.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Extras_matrices.ipynb){ .md-button .md-button--primary} ;
 
 
       - **Finir** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} > ==**Rendre** via [le notebook d76b-2521137 sur Capytale pour le 10/01/2024](https://capytale2.ac-paris.fr/web/c/d76b-2521137){target=_blank} ;
@@ -422,13 +422,13 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Rendre** en PJ d'un [mail] votre notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} ;
+    - **Rendre** en PJ d'un [mail] votre notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){ .md-button .md-button--primary} ;
     
     - Correction des évaluations du trimestre ;
 
-    - **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
 
 === "TRAVAIL À FAIRE"
     
@@ -539,8 +539,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "TRAVAIL À FAIRE"
 
-    - **Rendre** sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} les exercices correspondants au notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){target=_blank} | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){ .md-button .md-button--primary}
+    - **Rendre** sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} les exercices correspondants au notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Les_tableaux.ipynb){target=_blank} | 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Les_tableaux.ipynb){ .md-button .md-button--primary}
 
 
 
@@ -669,18 +669,18 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Synthèse des [tris par insertion et par sélection](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Tri_Algo.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Tri_Algo.ipynb){ .md-button .md-button--primary} et [Capytale n° `dcbb-10982093`](https://capytale2.ac-paris.fr/web/c/dcbb-10982093){target=_blank} ;
+    - Synthèse des [tris par insertion et par sélection](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Tri_Algo.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Tri_Algo.ipynb){ .md-button .md-button--primary} et [Capytale n° `dcbb-10982093`](https://capytale2.ac-paris.fr/web/c/dcbb-10982093){target=_blank} ;
     
-    - **Faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `6ccd-10982715`](https://capytale2.ac-paris.fr/web/c/6ccd-10982715){target=_blank} ;
+    - **Faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `6ccd-10982715`](https://capytale2.ac-paris.fr/web/c/6ccd-10982715){target=_blank} ;
 
-    - **Faire** les activités du notebook [IHM_Web_Dynamique_Flask](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique_Flask.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique_Flask.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `8cb2-11040279`](https://capytale2.ac-paris.fr/web/c/8cb2-11040279){target=_blank} ;    
+    - **Faire** les activités du notebook [IHM_Web_Dynamique_Flask](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique_Flask.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Dynamique_Flask.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `8cb2-11040279`](https://capytale2.ac-paris.fr/web/c/8cb2-11040279){target=_blank} ;    
 
 === "TRAVAIL À FAIRE"
 
-    - **Transmettre** par [mail] les notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){target=_blank} et [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){target=_blank} ;
+    - **Transmettre** par [mail] les notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Complexite.ipynb){target=_blank} et [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Tri.ipynb){target=_blank} ;
 
     - **Approfondir** [la notion de complexité et les algorithmes de tris](https://nreveret.forge.apps.education.fr/tris/){target=_blank} ;
 
@@ -774,9 +774,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Faire** les activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
 
-    - **Faire** les activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
 
     - **Approfondir** [la notion de complexité et les algorithmes de tris](https://nreveret.forge.apps.education.fr/tris/){target=_blank}  ;
 
@@ -791,15 +791,15 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Finir** les activités du site [Dictionnaires](https://mcoilhac.forge.apps.education.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
 
-    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `d3fd-10248019`](https://capytale2.ac-paris.fr/web/c/d3fd-10248019){target=_blank} ;
+    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `d3fd-10248019`](https://capytale2.ac-paris.fr/web/c/d3fd-10248019){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
     - **Faire** les exercices de [Codex sur Capytale n°`d168-10564835`](https://capytale2.ac-paris.fr/web/c/d168-10564835){target=_blank} concernant les dictionnaires ;
     - **Se préparer** pour une évaluation par QCM portant sur les dictionnaires et les notions précédemment abordées ;
-    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `d3fd-10248019`](https://capytale2.ac-paris.fr/web/c/d3fd-10248019){target=_blank} ;
+    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `d3fd-10248019`](https://capytale2.ac-paris.fr/web/c/d3fd-10248019){target=_blank} ;
 ***
 ## Du 02/04
 
@@ -807,13 +807,13 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Finir** les activités du site [Dictionnaires](https://mcoilhac.forge.apps.education.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
 
-    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `d3fd-10248019`](https://capytale2.ac-paris.fr/web/c/d3fd-10248019){target=_blank} ;
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-2.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `d3fd-10248019`](https://capytale2.ac-paris.fr/web/c/d3fd-10248019){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} 
+    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){ .md-button .md-button--primary} 
     et **rendre** votre travail via [Capytale n° `01d1-10247072`](https://capytale2.ac-paris.fr/web/c/01d1-10247072){target=_blank} ;
 
 ***
@@ -823,18 +823,18 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Révisions de SNT : [Les données structurées et leur traitement](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-653650670442840123/){target=_blank} ;
     - **Faire** les activités du site [Dictionnaires](https://mcoilhac.forge.apps.education.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
-    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} 
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Data_CSV-1.ipynb){ .md-button .md-button--primary} 
     et **rendre** votre travail via [Capytale n° `01d1-10247072`](https://capytale2.ac-paris.fr/web/c/01d1-10247072){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** [les mini-projets](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Mini-projets-NSI.ipynb){target=_blank} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Mini-projets-NSI.ipynb){ .md-button .md-button--primary} 
+    - **Finir** [les mini-projets](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Mini-projets-NSI.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Mini-projets-NSI.ipynb){ .md-button .md-button--primary} 
     et **rendre** votre travail via [Capytale n° `4bfb2-10025788`](https://capytale2.ac-paris.fr/web/c/bfb2-10025788){target=_blank} ;
     
-    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){target=_blank} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} 
+    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Statique.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} 
     et **rendre** votre travail via [Capytale n° `45e8-5599678`](https://capytale2.ac-paris.fr/web/c/45e8-5599678){target=_blank} ; 
 
 ***
@@ -842,14 +842,14 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Développer** [les mini-projets](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Mini-projets-NSI.ipynb){target=_blank} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Mini-projets-NSI.ipynb){ .md-button .md-button--primary} 
+    - **Développer** [les mini-projets](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Mini-projets-NSI.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Mini-projets-NSI.ipynb){ .md-button .md-button--primary} 
     et remettre votre travail via [Capytale n° `4bfb2-10025788`](https://capytale2.ac-paris.fr/web/c/bfb2-10025788){target=_blank} ;  
     
 === "TRAVAIL À FAIRE"
 
-    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){target=_blank} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} 
+    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Statique.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} 
     et **rendre** votre travail via [Capytale n° `45e8-5599678`](https://capytale2.ac-paris.fr/web/c/45e8-5599678){target=_blank} ;
 
 ***
@@ -857,8 +857,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){target=_blank} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} 
+    - **Faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Statique.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} 
     et remettre votre travail via [Capytale n° `45e8-5599678`](https://capytale2.ac-paris.fr/web/c/45e8-5599678){target=_blank} ;
     
     - ==**Constituer** progressivement une note, un memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript==
@@ -874,23 +874,23 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Evaluation par QCM intégrant les notions d'OS et les instructions de commande Linux ;
     
-    - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){ .md-button .md-button--primary} ;
+    - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Les_tableaux.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Les_tableaux.ipynb){ .md-button .md-button--primary} ;
 
     > **Compléter** les exercices correspondants sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} ;
 
-    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){target=_blank} | [Capytale n° 05e4-5836493](https://capytale2.ac-paris.fr/web/c/05e4-5836493){target=_blank} |
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} ;
+    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){target=_blank} | [Capytale n° 05e4-5836493](https://capytale2.ac-paris.fr/web/c/05e4-5836493){target=_blank} |
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/TP_matrices.ipynb){ .md-button .md-button--primary} ;
 
-    - **rechercher** une solution pour [Extras_matrices](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Extras_matrices.ipynb){target=_blank} | [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Extras_matrices.ipynb){ .md-button .md-button--primary} ;
+    - **rechercher** une solution pour [Extras_matrices](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Extras_matrices.ipynb){target=_blank} | [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Extras_matrices.ipynb){ .md-button .md-button--primary} ;
     
 === "TRAVAIL À FAIRE"
 
     - **Poursuivre** l'activité GameShell : **cliquer** sur ce lien <https://codespaces.new/phyver/GameShell> pour ouvrir un CodeSpace puis saisir dans le terminal : `bash start.sh -L fr` (si besoin, utilisez cette [ressource pour des informations sur les permissions utilisateurs ](https://www.linuxtricks.fr/wiki/droits-sous-linux-utilisateurs-groupes-permissions){target=_blank}) ;
     - **Compléter** et **rendre** votre memo de ligne de commande [Capytale n° `1436-5369350`](https://capytale2.ac-paris.fr/web/c/1436-5369350) ;
     - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -901,8 +901,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} ;
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} ;
     
     - **Cliquer** sur ce lien <https://codespaces.new/phyver/GameShell> pour ouvrir un CodeSpace puis saisir dans le terminal : `bash start.sh -L fr` (si besoin, utilisez cette [ressource pour des informations sur les permissions utilisateurs ](https://www.linuxtricks.fr/wiki/droits-sous-linux-utilisateurs-groupes-permissions){target=_blank}) ;
 
@@ -911,8 +911,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - **Rendre** votre memo de ligne de commande [Capytale n° `1436-5369350`](https://capytale2.ac-paris.fr/web/c/1436-5369350) ;
     - **Se préparer** pour une évaluation par QCM intégrant les notions d'OS et les instructions de commande Linux ;    
     - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -923,23 +923,23 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Bilan du mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    - Bilan du mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
     > Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans Visual Studio Code ;
 
-    - Synthèse du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){target=_blank} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){ .md-button .md-button--primary} 
+    - Synthèse du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/OS.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/OS.ipynb){ .md-button .md-button--primary} 
     et remettre votre travail via [Capytale n° `478b-5369425`](https://capytale2.ac-paris.fr/web/c/478b-5369425){target=_blank} pour le 12/01 ;
 
-    - **Faire** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} 
+    - **Faire** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} 
     et compléter votre memo de ligne de commande [Capytale n° `1436-5369350`](https://capytale2.ac-paris.fr/web/c/1436-5369350) ;
 
 === "TRAVAIL À FAIRE"
    
     - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -950,19 +950,19 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Finaliser** le mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    - **Finaliser** le mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
     > Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans Visual Studio Code ;
 
-    - **Répondre** au questionnement du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){target=_blank} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){ .md-button .md-button--primary} 
+    - **Répondre** au questionnement du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/OS.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/OS.ipynb){ .md-button .md-button--primary} 
     et remettre votre travail via [Capytale n° `478b-5369425`](https://capytale2.ac-paris.fr/web/c/478b-5369425){target=_blank} pour le 12/01 ;
 
 === "TRAVAIL À FAIRE"
    
     - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -976,15 +976,15 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Finaliser** le mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    - **Finaliser** le mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
     > Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans Visual Studio Code ;
 
 === "TRAVAIL À FAIRE"
    
     - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -995,16 +995,16 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
     > Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans Visual Studio Code ;
 
 === "TRAVAIL À FAIRE"
    
     - Réviser pour une évaluation par QCM ;
     - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -1016,9 +1016,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Synthèse des activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Logique_Booleenne.ipynb){target=_blank}
+    - Synthèse des activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Logique_Booleenne.ipynb){target=_blank}
      sur [Capytale n° 9a9f-4841668](https://capytale2.ac-paris.fr/web/c/9a9f-4841668){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
 
     - Complément, exemples de réalisations de fonctions logiques avec des transistors, **reconnaitre** les fonctions simulées :
 
@@ -1030,8 +1030,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
         > Ces circuits utilisent des transistors bipolaires inventés en 1948.
         > Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés...
     
-    - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+    - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
     
     
 === "TRAVAIL À FAIRE"
@@ -1051,13 +1051,13 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Synthèse des scripts du premier trimestre sur [Capytale n° 90db-4819088](https://capytale2.ac-paris.fr/web/c/90db-4819088){target=_blank .md-button .md-button--primary }
         
-    - Correction du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"}
+    - Correction du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"}
      sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
 
-    - **Faire** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Logique_Booleenne.ipynb){target=_blank}
+    - **Faire** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Logique_Booleenne.ipynb){target=_blank}
      sur [Capytale n° 9a9f-4841668](https://capytale2.ac-paris.fr/web/c/9a9f-4841668){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
 
     - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
 
@@ -1068,8 +1068,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Finaliser** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en  ;
 
-    - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+    - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
       
         
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
@@ -1091,17 +1091,17 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Finir**  et **rendre** les activités du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
+    - **Finir**  et **rendre** les activités du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
     [Capytale n° `de75-4442563`](https://capytale2.ac-paris.fr/web/c/de75-4442563){target=_blank .md-button .md-button--primary} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
 
-    - **Parcourir** le notebook présentant [Les_types_construits](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_types_construits.ipynb){target=_blank}
+    - **Parcourir** le notebook présentant [Les_types_construits](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Les_types_construits.ipynb){target=_blank}
     [Capytale n° `bd71-4571643`](https://capytale2.ac-paris.fr/web/c/bd71-4571643){target=_blank .md-button .md-button--primary}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_types_construits.ipynb){ .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Les_types_construits.ipynb){ .md-button .md-button--primary}
 
-    - **Lire** et **faire** les activités du notebook [Fonctions_et_modularisation](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_et_modularisation.ipynb){target=_blank}
+    - **Lire** et **faire** les activités du notebook [Fonctions_et_modularisation](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Fonctions_et_modularisation.ipynb){target=_blank}
     [Capytale n° `e5f7-4571767`](https://capytale2.ac-paris.fr/web/c/e5f7-4571767){target=_blank .md-button .md-button--primary}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_et_modularisation.ipynb){ .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Fonctions_et_modularisation.ipynb){ .md-button .md-button--primary}
 
 
 === "TRAVAIL À FAIRE"
@@ -1110,8 +1110,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     
     - **Se préparer** pour une évaluation par QCM (*Bases de Python + binaire, hexadécimal, ASCII et UTF-8, Chaines de caractères, Types construits, Fonctions et Module*) les 17 et 20/11 ;
 
-    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° `0e33-4601596`](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
+    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° `0e33-4601596`](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
 
     - **Reprendre** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} résumé de vos apprentissages en Python ;
         
@@ -1131,9 +1131,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 === "CONTENU DE SÉANCE"
 
     - Retour sur le T.A.F. à finir et à rendre... ;
-    - **Faire** les activités du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
+    - **Faire** les activités du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
     [Capytale n° de75-4442563](https://capytale2.ac-paris.fr/web/c/de75-4442563){target=_blank .md-button .md-button--primary} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
 
 
 === "TRAVAIL À FAIRE"
@@ -1162,7 +1162,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Rendre** les notebooks [ASCII et UTF8 pour coder les caracteres sur Capytale n° 4f0f-4075977](https://capytale2.ac-paris.fr/web/c/4f0f-4075977){target=_blank} et [bases de la programmation en Python sur Capytale n° d8b8-4145623](https://capytale2.ac-paris.fr/web/c/d8b8-4145623){target=_blank} ;
 
-    - **Rendre** vos scripts de conversion d'une couleur hexadécimale en (r,g,b), et d'un entier décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} 
+    - **Rendre** vos scripts de conversion d'une couleur hexadécimale en (r,g,b), et d'un entier décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary} ;
 
     - **Renforcer** votre apprentissage des bases de la programmation en Python sur la [plateforme Algoréa](https://parcours.algorea.org/fr/a/3080878003834387961;p=4702,5794277797719192711,204136604821791621,540678427040899806;a=0){target=_blank} et sur [CodEx en réalisant le parcours SNT](https://codex.forge.apps.education.fr/parcours/#snt){target=_blank}
@@ -1185,10 +1185,10 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Créer** un compte sur [FranceIOI](https://login.france-ioi.org/register){target=_blank} puis **rejoindre** le groupe [1NSI_2025-2026 sur la plateforme Algoréa](https://parcours.algorea.org/fr/groups/mine){target=_blank} avec le code `rsivadyjkp` ;
-    - Synthèse partielle sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Programmation_Python-Bases.ipynb){target=_blank} 
+    - **Créer** un compte sur [FranceIOI](https://login.france-ioi.org/register){target=_blank} puis **rejoindre** le groupe [1NSI_2026-2027 sur la plateforme Algoréa](https://parcours.algorea.org/fr/groups/mine){target=_blank} avec le code `rsivadyjkp` ;
+    - Synthèse partielle sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Programmation_Python-Bases.ipynb){target=_blank} 
     [Capytale n° d8b8-4145623](https://capytale2.ac-paris.fr/web/c/d8b8-4145623){target=_blank .md-button .md-button--primary} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Programmation_Python-Bases.ipynb){ .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Programmation_Python-Bases.ipynb){ .md-button .md-button--primary}
     - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot 01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+10+11+12+38+56+9+43+35+39+49+61+57+52+44+18+30+68+6+13+28+16+3+4+70+33+8+27+71+75+2000+66+72+1000+67+20+14+19+32&nbLevels=45&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
@@ -1197,7 +1197,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Renforcer** votre apprentissage des bases de la programmation en Python sur la [plateforme Algoréa](https://parcours.algorea.org/fr/a/3080878003834387961;p=4702,5794277797719192711,204136604821791621,540678427040899806;a=0){target=_blank} ;
     
-    - **Développer** vos scripts de conversion d'une couleur hexadécimale en (r,g,b), et d'un entier décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} 
+    - **Développer** vos scripts de conversion d'une couleur hexadécimale en (r,g,b), et d'un entier décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary} ;
 
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
@@ -1210,14 +1210,14 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Retour sur le T.A.F. et synthèse de la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} 
+    - Retour sur le T.A.F. et synthèse de la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} 
     [Capytale n° b3a3-4027405](https://capytale2.ac-paris.fr/web/c/b3a3-4027405){target=_blank .md-button .md-button--primary} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary} ;
     
 
-    - **Découvrir** [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} 
+    - **Découvrir** [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} 
     [Capytale n° 4f0f-4075977](https://capytale2.ac-paris.fr/web/c/4f0f-4075977){target=_blank .md-button .md-button--primary} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary} ;
     
     > ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==    
     
@@ -1226,11 +1226,11 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Finir** et **rendre** en l'état votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.
 
-    - **Finir** les activités du notebook [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} 
+    - **Finir** les activités du notebook [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} 
     [Capytale n° 4f0f-4075977](https://capytale2.ac-paris.fr/web/c/4f0f-4075977){target=_blank .md-button .md-button--primary} 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary} ;       
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary} ;       
 
-    - **Développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} en utilisant les propriétés d'[affichage `Markdown()` du module `IPython.display`](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
+    - **Développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} en utilisant les propriétés d'[affichage `Markdown()` du module `IPython.display`](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
 
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
 
@@ -1244,11 +1244,11 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Retour sur le T.A.F. et synthèse de représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){target=_blank} ;
+    - Retour sur le T.A.F. et synthèse de représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){target=_blank} ;
 
-    - **Découvrir** la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank}
+    - **Découvrir** la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank}
     [Capytale n° b3a3-4027405](https://capytale2.ac-paris.fr/web/c/b3a3-4027405){target=_blank .md-button .md-button--primary} ;  
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary}
     > ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==    
     
 
@@ -1256,9 +1256,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Finir** et **rendre** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.       
 
-    - **Finir** les activités des notebooks [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){target=_blank} et [hexadédimale](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} ;
+    - **Finir** les activités des notebooks [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){target=_blank} et [hexadédimale](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} ;
 
-    - **Développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
+    - **Développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
 
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
 
@@ -1271,20 +1271,17 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Point d'avancement de votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} [Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} ;
-    
-    - **Découvrir** comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+   - **Découvrir** comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
     [Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430){target=_blank .md-button .md-button--primary} ;
     > ==**compléter** une copie de ce notebook dans votre classeur sur GitHub, **partager** par [mail] un lien pointant vers ce document et le **rendre** sur [Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430)==
 
     
 === "TRAVAIL À FAIRE"
 
-    - **Finaliser** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** progressivement votre [notebook jupyter visible sur Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.==
-
-    - **Finir** les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+  
+    - **Finir** les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
     [Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430){target=_blank .md-button .md-button--primary} ;
     
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
@@ -1293,8 +1290,31 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>   
 
-    - **Personaliser** [votre classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil== ;
--->
+
+    
+    
+    -->
+
+
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot 01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+10+11+12+38+56+9+43+35+39+49+61+57+52+44+18+30+68+6+13+28+16+3+4+70+33+8+27+71+75+2000+66+72+1000+67+20+14+19+32&nbLevels=45&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
+   
+
+***
+## Du 14/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Point d'avancement de votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} [Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} ;
+    - **Créer** un compte sur [FranceIOI](https://login.france-ioi.org/register){target=_blank} puis **rejoindre** le groupe [1NSI_2026-2027 sur la plateforme Algoréa](https://parcours.algorea.org/fr/groups/mine){target=_blank} avec le code `iauc7gxa87` ;
+    - Synthèse partielle sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Programmation_Python-Bases.ipynb){target=_blank} 
+    [Capytale n° d8b8-4145623](https://capytale2.ac-paris.fr/web/c/d8b8-4145623){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Programmation_Python-Bases.ipynb){ .md-button .md-button--primary}
+ 
+       
+=== "TRAVAIL À FAIRE"
+
+    - **Finaliser** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** progressivement votre [notebook jupyter visible sur Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.==
+    -- **Personaliser** [votre classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil== ;
 
 ***
 ## Du 07/09
