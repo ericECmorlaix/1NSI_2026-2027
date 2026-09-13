@@ -1293,11 +1293,12 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     
     
-    -->
+    
 
 
     - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot 01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+10+11+12+38+56+9+43+35+39+49+61+57+52+44+18+30+68+6+13+28+16+3+4+70+33+8+27+71+75+2000+66+72+1000+67+20+14+19+32&nbLevels=45&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
    
+-->
 
 ***
 ## Du 14/09
@@ -1305,7 +1306,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 === "CONTENU DE SÉANCE"
 
     - Point d'avancement de votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} [Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} ;
+    
     - **Créer** un compte sur [FranceIOI](https://login.france-ioi.org/register){target=_blank} puis **rejoindre** le groupe [1NSI_2026-2027 sur la plateforme Algoréa](https://parcours.algorea.org/fr/groups/mine){target=_blank} avec le code `iauc7gxa87` ;
+    
     - Synthèse partielle sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Programmation_Python-Bases.ipynb){target=_blank} 
     [Capytale n° d8b8-4145623](https://capytale2.ac-paris.fr/web/c/d8b8-4145623){target=_blank .md-button .md-button--primary} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Programmation_Python-Bases.ipynb){ .md-button .md-button--primary}
@@ -1314,7 +1317,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 === "TRAVAIL À FAIRE"
 
     - **Finaliser** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** progressivement votre [notebook jupyter visible sur Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.==
-    -- **Personaliser** [votre classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil== ;
+    
+    - **Personaliser** [votre classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil== ;
 
 ***
 ## Du 07/09
