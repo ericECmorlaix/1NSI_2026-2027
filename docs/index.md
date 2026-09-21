@@ -1266,39 +1266,38 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>
 
+  
+
+> ==**compléter** une copie de ce notebook dans votre classeur sur GitHub, **partager** par [mail] un lien pointant vers ce document et le **rendre** sur [Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430)==
+
+    
+    
+    
+
+
+       
+-->
+
 ***
-## Du 15/09
+## Du 21/09
 
 === "CONTENU DE SÉANCE"
 
-   - **Découvrir** comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+    - **Découvrir** comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Binaire.ipynb){ .md-button .md-button--primary}
     [Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430){target=_blank .md-button .md-button--primary} ;
-    > ==**compléter** une copie de ce notebook dans votre classeur sur GitHub, **partager** par [mail] un lien pointant vers ce document et le **rendre** sur [Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430)==
-
+    
+    - **Poursuivre** l'apprentissage des bases de la programmation en Python [Capytale n°`d8b8-4145623`](https://capytale2.ac-paris.fr/web/c/d8b8-4145623){target=_blank} et [Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} 
     
 === "TRAVAIL À FAIRE"
 
   
-    - **Finir** les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+    - **Poursuivre** les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Binaire.ipynb){ .md-button .md-button--primary}
     [Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430){target=_blank .md-button .md-button--primary} ;
-    
-    - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
-
-    <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </center>   
-
-
-    
-    
-    
-
 
     - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot 01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+10+11+12+38+56+9+43+35+39+49+61+57+52+44+18+30+68+6+13+28+16+3+4+70+33+8+27+71+75+2000+66+72+1000+67+20+14+19+32&nbLevels=45&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
-   
--->
+       
 
 ***
 ## Du 14/09
