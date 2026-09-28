@@ -1239,34 +1239,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     </center>
 
    
-***
-## Les 22 et 23/09
 
-=== "CONTENU DE SÉANCE"
-
-    - Retour sur le T.A.F. et synthèse de représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){target=_blank} ;
-
-    - **Découvrir** la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank}
-    [Capytale n° b3a3-4027405](https://capytale2.ac-paris.fr/web/c/b3a3-4027405){target=_blank .md-button .md-button--primary} ;  
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary}
-    > ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==    
-    
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** et **rendre** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.       
-
-    - **Finir** les activités des notebooks [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb){target=_blank} et [hexadédimale](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} ;
-
-    - **Développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
-
-    - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
-
-    <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </center>
-
-  
 
 > ==**compléter** une copie de ce notebook dans votre classeur sur GitHub, **partager** par [mail] un lien pointant vers ce document et le **rendre** sur [Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430)==
 
@@ -1277,6 +1250,26 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
        
 -->
+***
+## Du 28/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. et synthèse de représenter un entier positif en [binaire / Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430){target=_blank} ;
+    
+    - **Découvrir** la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal.ipynb){target=_blank}
+    [Capytale n° b3a3-4027405](https://capytale2.ac-paris.fr/web/c/b3a3-4027405){target=_blank .md-button .md-button--primary} ;  
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2026-2027/Hexadecimal.ipynb){ .md-button .md-button--primary}
+    > ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==    
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** et **rendre** l'apprentissage des bases de la programmation en Python [Capytale n°`d8b8-4145623`](https://capytale2.ac-paris.fr/web/c/d8b8-4145623){target=_blank} et [Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} ;
+
+    - **Poursuivre** les activités des notebooks [binaire / Capytale n° f933-3969430](https://capytale2.ac-paris.fr/web/c/f933-3969430){target=_blank} et [hexadédimale / Capytale n° b3a3-4027405](https://capytale2.ac-paris.fr/web/c/b3a3-4027405){target=_blank} ;
+    
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot 01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+10+11+12+38+56+9+43+35+39+49+61+57+52+44+18+30+68+6+13+28+16+3+4+70+33+8+27+71+75+2000+66+72+1000+67+20+14+19+32&nbLevels=45&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
 
 ***
 ## Du 21/09
